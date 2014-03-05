@@ -27,3 +27,10 @@ Learning to use git are:
 Firstname 	Manfred
 Lastname	Hofbauer
 Grade/Form of school	TGM
+
+rneppl
+========
+Learning to use git are:
+Firstname 	Rupert
+Lastname	Neppl
+Grade/Form of school	TGM
