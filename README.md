@@ -1,2 +1,1 @@
-SEW3CHIT_Kocsi
-==============
+Daniel Kocsi_3CHIT
