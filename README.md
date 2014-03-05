@@ -20,3 +20,10 @@ Learning to use git are:
 Firstname 	Daniel
 Lastname	Melichar
 Grade/Form of school	TGM
+
+mhofbauer
+========
+Learning to use git are:
+Firstname 	Manfred
+Lastname	Hofbauer
+Grade/Form of school	TGM
