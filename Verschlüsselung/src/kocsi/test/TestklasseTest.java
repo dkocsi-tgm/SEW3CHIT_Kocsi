@@ -1,7 +1,5 @@
 package kocsi.test;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 public class TestklasseTest {
